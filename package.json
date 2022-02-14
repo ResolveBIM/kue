@@ -29,9 +29,9 @@
     "express": "^4.12.2",
     "lodash": "^4.0.0",
     "nib": "~1.1.2",
-    "node-redis-warlock": "~0.2.0",
+    "node-redis-warlock": "^1.0.2",
     "pug": "^3.0.2",
-    "redis": "~2.6.0-2",
+    "redis": "^3.1.1",
     "stylus": "~0.54.5",
     "yargs": "^17.3.1"
   },
